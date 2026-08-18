@@ -6,7 +6,7 @@
    CHANGE THIS NAME
 */
 
-const birthdayPerson = "Birthday Star";
+const birthdayPerson = "Tisha";
 
 
 /*
